@@ -1,0 +1,9 @@
+body {
+    background-color: red;
+    color: white;
+}
+
+form {
+    display: grid;
+    gap: 2rem;
+}
